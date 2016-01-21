@@ -5,7 +5,7 @@
     version     = "1.0">
 
 
-    <name>IPOS</name>
+    <name>IPOS Reports</name>
     
     <content src="index.html"/>
     <icon src="icon.png" width="128" height="128" />
