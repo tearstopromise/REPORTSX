@@ -28,6 +28,6 @@
   
    <preference name="fullscreen" value="true" />
    <preference name="android-windowSoftInputMode" value="stateVisible" />
-   	<preference name="orientation" value="LANDSCAPE" />
+   	<preference name="orientation" value="landscape" />
 
 </widget>
